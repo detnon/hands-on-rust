@@ -1,0 +1,15 @@
+/Users/samuel/Dev/hands-on-rust/popsicle/target/rls/debug/deps/anyhow-7a736126f5085687.rmeta: /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/lib.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/backtrace.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/chain.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/context.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ensure.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/error.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/fmt.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/kind.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/macros.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ptr.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/wrapper.rs
+
+/Users/samuel/Dev/hands-on-rust/popsicle/target/rls/debug/deps/anyhow-7a736126f5085687.d: /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/lib.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/backtrace.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/chain.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/context.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ensure.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/error.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/fmt.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/kind.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/macros.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ptr.rs /Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/wrapper.rs
+
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/lib.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/backtrace.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/chain.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/context.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ensure.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/error.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/fmt.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/kind.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/macros.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/ptr.rs:
+/Users/samuel/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.61/src/wrapper.rs:
